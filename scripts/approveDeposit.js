@@ -11,7 +11,7 @@ const tokenContractJSON = require("../artifacts/contracts/MetaToken.sol/MetaToke
 const tokenAddress = ""; // place your erc20 contract address here
 const tokenABI = tokenContractJSON.abi;
 const fxERC20RootAddress = "0x3658ccFDE5e9629b0805EB06AaCFc42416850961";
-const walletAddress = ""; // place your public address for your wallet here
+const walletAddress = "0xe1116b9Da91038c8Fa24b3Eb260E8Cb4a1Df94CD"; // place your public address for your wallet here
 
 async function main() {
 
